@@ -8,7 +8,10 @@ Sou de **Atibaia, SP**, e sou apaixonado por tecnologia. Estou sempre em busca d
 
 Meu objetivo é aprimorar continuamente minhas habilidades técnicas e construir uma carreira sólida na área de desenvolvimento de software.
 
-Conecte-se comigo no LinkedIn: <a href="https://www.linkedin.com/in/danielkpelo/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> </a>
+Conecte-se comigo no LinkedIn:
+<a href="https://www.linkedin.com/in/danielkpelo/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48"/>
+</a>
 
 ## 🛠️ Habilidades e Tecnologias
 
