@@ -2,13 +2,13 @@
 
 `Estudante Full Stack`
 
-Estou cursando **Tecnologia (EAD)** na Universidade São Francisco (USF) e desenvolvendo minhas habilidades em **JavaScript**, **TypeScript** e desenvolvimento de software através da formação Full Stack JavaScript da OneBitCode.
+Estou cursando **Engenharia de Software (EAD)** na Universidade São Francisco (USF) e desenvolvendo minhas habilidades em **HTML5**, **CSS**, **JavaScript**, **TypeScript**, **Git/GitHub**  e desenvolvimento de software através da formação Full Stack JavaScript da OneBitCode.
 
 Sou de **Atibaia, SP**, e sou apaixonado por tecnologia. Estou sempre em busca de novas oportunidades de aprender, crescer, contribuir e construir soluções significativas através da programação.
 
 Meu objetivo é aprimorar continuamente minhas habilidades técnicas e construir uma carreira sólida na área de desenvolvimento de software.
 
-Visite meu perfil no LinkedIn: "[Perfil no LinkedIn](https://www.linkedin.com/in/danielkpelo/)"
+Conecte-se comigo no LinkedIn: <a href="https://www.linkedin.com/in/danielkpelo/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> </a>
 
 ## 🛠️ Habilidades e Tecnologias
 
