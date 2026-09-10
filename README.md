@@ -1,20 +1,26 @@
-# Olá, eu sou o Daniel! 👋
+# Daniel Ferreira
 
-`Estudante Full Stack`
+Desenvolvedor Full Stack | HTML • CSS • JavaScript
 
-Estou cursando **Engenharia de Software (EAD)** na Universidade São Francisco (USF) e desenvolvendo minhas habilidades em **HTML5**, **CSS**, **JavaScript**, **TypeScript**, **Git/GitHub**  e desenvolvimento de software através da formação Full Stack JavaScript da OneBitCode.
+Estudante de Engenharia de Software, com foco em construir aplicações web funcionais e bem estruturadas, do front-end à integração com APIs.
 
-Sou de **Atibaia, SP**, e sou apaixonado por tecnologia. Estou sempre em busca de novas oportunidades de aprender, crescer, contribuir e construir soluções significativas através da programação.
+---
 
-Meu objetivo é aprimorar continuamente minhas habilidades técnicas e construir uma carreira sólida na área de desenvolvimento de software.
+### 🛠️ Tecnologias e Ferramentas
 
-Conecte-se comigo no LinkedIn:
-<a href="https://www.linkedin.com/in/danielkpelo/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48"/>
-</a>
+- **Front-end:** HTML, CSS, JavaScript
+- **Ferramentas:** Git, GitHub, Figma
+- **APIs:** API REST
 
-## 🛠️ Habilidades e Tecnologias
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github" alt="Ícones de habilidades"/>
-</p>
+### 🎓 Formação
+
+**Engenharia de Software**
+Universidade São Francisco (USF) — EAD
+
+---
+
+### 🌐 Conecte-se comigo
+
+[LinkedIn](https://www.linkedin.com/in/danielkpelo/) • [E-mail](mailto:dankpelo@gmail.com)
